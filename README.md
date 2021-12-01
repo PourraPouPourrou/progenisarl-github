@@ -1,3 +1,3 @@
 # progenisarl-github
-this is for tutorial prurpose  .
+this is for tutorial purpose  .
 
